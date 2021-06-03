@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An order of the Lords and Commons assembled in Parliament for the regulating of printing, and for suppressing the great late abuses and frequent disorders in printing many false, scandalous, seditious, libellous and unlicensed pamphlets, to the great defamation of religion and government : also, authorizing the masters and wardens of the company of stationers to make diligent search, seize and carry away all such books as they shall finde printed or reprinted by any man having no lawfull interest in them, being entred into the hall book to any other man as his proper copies.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22057</idno><idno type="EEBO-CITATION">12265469</idno>
+  <idno type="VID">197323</idno>
+  <idno type="EEBO-PROQUEST">2240957505</idno>
+  
+            <idno type="STC">Wing E1711</idno>
+            <idno type="OCLC">12265469</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22057)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197323)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 245:E106, no 15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An order of the Lords and Commons assembled in Parliament for the regulating of printing, and for suppressing the great late abuses and frequent disorders in printing many false, scandalous, seditious, libellous and unlicensed pamphlets, to the great defamation of religion and government : also, authorizing the masters and wardens of the company of stationers to make diligent search, seize and carry away all such books as they shall finde printed or reprinted by any man having no lawfull interest in them, being entred into the hall book to any other man as his proper copies.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Wright ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iune 16, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Freedom of the press --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197323:1"/>
+            <p> AN ORDER OF THE LORDS and COMMONS Assembled in Parliament.</p>
+            <p>For the Regulating of Printing, And For suppressing the great late abuses and frequent disorders in Printing many false, Scandalous, Seditious, Libellous and unlicensed Pamphlets, to the great defamation of Religion and Government.</p>
+            <p>Also, authorizing the Masters and Wardens of the Company of <hi>Stationers</hi> to make diligent search, seize and carry away all such Books as they shall finde Printed, or reprinted by any man having no lawfull interest in them, being entred into the Hall Book to any other man as his proper Copies.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <opener>
+                           <dateline>
+                              <date>Die Mercurii. 14 June. 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Lords and Commons assembled in Parliament, that this Order shall be forthwith printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>J. Brown Cler. Parliamentorum: Hen. Elsing Cler. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>I. Wright</hi> in the Old-baily, <hi>Iune</hi> 16. 1643.</p>
+            <pb facs="tcp:197323:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_illustrations">
+            <pb n="3" facs="tcp:197323:2"/>
+            <p>
+               <figure>
+                  <figDesc>woodcut of crowned Tudor rose</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>woodcut of crowned thistle</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>woodcut of crowned fleur-de-lis</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>woodcut of crowned harp</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="ordinance">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Mercurii,</hi> 14 <hi>Junii.</hi> 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas divers good Orders have bin lately made by both Houses of Parliament, for suppressing the great late abuses and frequent dis<g ref="char:EOLhyphen"/>orders in Printing many, false for<g ref="char:EOLhyphen"/>ged, scandalous, seditious, libellous, and unli<g ref="char:EOLhyphen"/>censed Papers, Pamphlets, and Books to the great defamation of Religion and government. Which orders (notwithstāding the diligence of the Company of <hi>Stationers,</hi> to put them in full eexecution) have taken little or no effect: By rea<g ref="char:EOLhyphen"/>son the bill in preparation, for redresse of the said disorders, hath hitherto bin retarded through the present distractions, and very many, aswell <hi>Stationers</hi> and <hi>Printers,</hi> as others of sundry o<g ref="char:EOLhyphen"/>ther
+<pb n="4" facs="tcp:197323:3"/> professions not free of the <hi>Stationers</hi> Com<g ref="char:EOLhyphen"/>pany, have taken upon them to set up sundry private Printing Presses in corners, and to print, vend, publish and disperse Books, pam<g ref="char:EOLhyphen"/>phlets and papers, in such multitudes, that no industry could be suficient to discover or bring to punishment, all the severall abounding de<g ref="char:EOLhyphen"/>linquents; And by reason that divers of the <hi>Stationers</hi> Company and others being Delin<g ref="char:EOLhyphen"/>quents (contrary to former orders and the con<g ref="char:EOLhyphen"/>stant custome used among the said Company) have taken liberty to Print, Vend and publish, the most profitable vendible Copies of Books, belonging to the Company and other <hi>Statio<g ref="char:EOLhyphen"/>ners,</hi> especially of such Agents as are imploy<g ref="char:EOLhyphen"/>ed in putting the said Orders in Execution, and that by way of revenge for giveing informati<g ref="char:EOLhyphen"/>on against them to the Houses for their Delin<g ref="char:EOLhyphen"/>quences in Printing, to the great prejudice of the said Company of <hi>Stationers</hi> and Agents, &amp; to their discouragement in this publik service.</p>
+            <p>It is therefore Ordered by the Lords and Commons in <hi>Parliament,</hi> That no Order or De<g ref="char:EOLhyphen"/>claration of both, or either House of <hi>Parliament</hi> shall be printed by any, but by order of one or
+<pb n="5" facs="tcp:197323:3"/> both the said Houses: Nor other Book, Pam<g ref="char:EOLhyphen"/>phlet, paper, nor part of any such Book, Pam<g ref="char:EOLhyphen"/>phlet, or paper, shall from henceforth be printed, bound, stitched or put to sale by any person or persons whatsoever, unlesse the same be first approved of and licensed under the hands of such person or persons as both, or either of the said Houses shall appoint for the licensing of the same, and entred in the Register Book of the Company of <hi>Stationers,</hi> according to An<g ref="char:EOLhyphen"/>cient custom, and the Printer therof to put his name therto. And that no person or per<g ref="char:EOLhyphen"/>sons shall hereafter print, or cause to be reprin<g ref="char:EOLhyphen"/>ted any Book or Books, or part of Book, or Books heretofore allowed of and granted to the said Company of <hi>Stationers</hi> for their relief and maintenance of their poore, without the licence or consent of the Master, Wardens and Assistants of the said Company; Nor any Book or Books lawfully licensed and entred in the Register of the said Company for any particular member therof, without the license and consent of the Owner or Owners therof. Nor yet import any such Book or Books, or part of Book or Books formerly Printed
+<pb n="6" facs="tcp:197323:4"/> here, from beyond the Seas, upon paine of forfeiting the same to the Owner, or Owners of the Copies of the said Books, and such fur<g ref="char:EOLhyphen"/>ther punishment as shall be thought fit.</p>
+            <p>And the Master and Wardens of the said Company, the Gentleman Vsher of the House of <hi>Peers,</hi> the Sergeant of the Commons House and their deputies, together with the persons formerly appointed by the Committee of the House of Commons for Examinations, are hereby Authorized and required, from time to time, to make diligent search in all places, where they shall think meete, for all unlicensed Printing Presses, and all Presses any way im<g ref="char:EOLhyphen"/>ployed in the printing of scandalous or unli<g ref="char:EOLhyphen"/>censed Papers, Pamphlets, Books, or any Copies of Books belonging to the said Com<g ref="char:EOLhyphen"/>pany, or any member thereof, without their approbation and consents, and to seize and ca<g ref="char:EOLhyphen"/>ry away such printing Presses Letters, toge<g ref="char:EOLhyphen"/>ther with the Nut, Spindle, and other materi<g ref="char:EOLhyphen"/>alls of every such irregular Printer, which they find so misimployed, unto the Common Hall of the said Company, there to be defaced and made unserviceable according to Ancient Cu<g ref="char:EOLhyphen"/>stom;
+<pb n="7" facs="tcp:197323:4"/> And likewise to make diligent search in all suspected Printing-houses, Ware-houses, Shops and other places for such scandalous and unlicensed Books, papers, Pamphlets and all other Books, not entred, nor signed with the Printers name as aforesaid, being printed, or reprinted by such as have no lawfull interest in them, or any way contrary to this Order, and the same to seize and carry away to the said common hall, thereto remain till both or either House of <hi>Parliament</hi> shall dispose thereof, And likewise to apprehend all Authors, Printers, and other persons whatsoever imployed in compiling, printing, stitching, binding, publish<g ref="char:EOLhyphen"/>ing and dispersing of the said scandalous, unli<g ref="char:EOLhyphen"/>censed, and unwarrantable papers, books and pamphlets as aforesaid, and all those who shall resist the said Parties in searching after them, and to bring them afore either of the Houses or the Committee of Examinations, that so they may receive such further punishments, as their Offences shall demerit, and not to be released untill they have given satisfaction to the Par<g ref="char:EOLhyphen"/>ties imployed in their apprehension for their paines and charges, and given sufficient cau<g ref="char:EOLhyphen"/>tion
+<pb n="8" facs="tcp:197323:5"/> not to offend in like sort for the future. And all Iustices of the Peace, Captaines, Con<g ref="char:EOLhyphen"/>stables and other Officers, are hereby ordered and required to be aiding, and assisting to the foresaid persons in the due execution of all, and singular the premisses and in the apprehension of all Offenders against the same. And in case of opposition to break open Doores and Locks.</p>
+            <p>And it is further ordered, that this Order be forthwith Printed and Published, to the end that notice may be taken thereof, and all Con<g ref="char:EOLhyphen"/>temners of it left inexcusable.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
